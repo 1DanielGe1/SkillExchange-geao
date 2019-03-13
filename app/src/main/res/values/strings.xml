@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SkillExchange</string>
+    <string name="title_home">Home</string>
+    <string name="title_nearby">Nearby</string>
+    <string name="title_classification">Chat</string>
+    <string name="title_me">Me</string>
+</resources>
